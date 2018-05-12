@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43395'
     url: http://www.gutenberg.org/2009/agents/43395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45644#Guirlanden-um-Die-Urnen-der-Zukunftdrei-und-zwanzigsten-Jahrhunderte
 gutenberg_bookshelf: Precursors of Science Fiction
 gutenberg_issued: '2014-05-14'
 gutenberg_type: Text
